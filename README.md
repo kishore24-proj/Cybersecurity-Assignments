@@ -1,5 +1,5 @@
 # Cybersecurity-Assignments
-Cybersecurity - Canadian Context
+Cybersecurity - Canadian Context :: 
 First Semester:
 MM510 - 2 Professional Communication
 CYB101 - 4 Computer and Networking Fundamentals
